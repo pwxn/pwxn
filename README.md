@@ -7,7 +7,7 @@
 ## &nbsp; Connections
 
 [![Discord](https://custom-icon-badges.demolab.com/badge/n3e0-gray?style=for-the-badge&logo=discord&logoColor=white&label=discord&labelColor=purple)](https://discordapp.com/users/986587576485937213)
-[![YouTube](https://custom-icon-badges.demolab.com/badge/merkyw-gray?style=for-the-badge&logo=youtube&logoColor=white&label=youtube&labelColor=red)](https://www.youtube.com/@merkyw)
+[![YouTube](https://custom-icon-badges.demolab.com/badge/merkyuuu-gray?style=for-the-badge&logo=youtube&logoColor=white&label=youtube&labelColor=red)](https://www.youtube.com/@merkyuuu)
 [![Profile Views](https://komarev.com/ghpvc/?username=pwxn&style=for-the-badge)](https://github.com/Merkyness)
 <img width="3780" height="17" alt="Image" src="https://github.com/user-attachments/assets/4c9ae4cc-dc8b-484c-8927-7f0a88e7dc4f" />
 
