@@ -13,7 +13,7 @@
 
 ## &nbsp; My Stats
 
-[![GitHub Stats](https://streak-stats.demolab.com?user=pwxn&theme=transparent&hide_border=true&currStreakLabel=EBEBEB&dates=EBEBEB&ring=7A7A7A&stroke=FFFFFF&sideNums=EBEBEB&currStreakNum=EBEBEB&fire=989898&sideLabels=EBEBEB&background=000000)](https://git.io/streak-stats)
+[![GitHub Stats](https://streak-stats.demolab.com/demo/preview.php?user=pwxn&theme=transparent&border=EBEBEB00&ring=FFF5B1&fire=FFFFFF&sideLabels=FFFFFF&background=000000&sideNums=FFF5B1&currStreakNum=FFFFFF&currStreakLabel=EBEBEB&dates=FFF5B1&stroke=EBEBEB&excludeDaysLabel=FFF5B1)](https://git.io/streak-stats)
 <img width="3780" height="17" alt="Image" src="https://github.com/user-attachments/assets/4c9ae4cc-dc8b-484c-8927-7f0a88e7dc4f" />
 
 ## &nbsp; About Me
